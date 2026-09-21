@@ -84,6 +84,9 @@ public class base extends LinearOpMode {
             double leftPower;
             double rightPower;
 
+
+            // permission test
+
             // Choose to drive using either Tank Mode, or POV Mode
             // Comment out the method that's not used.  The default below is POV.
 
